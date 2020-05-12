@@ -1,0 +1,94 @@
+.Container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 5px;
+    background-color: whitesmoke;
+    
+}
+
+.Catelog{
+
+    font-size: 1em;
+    font-weight: 50;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.SidepicContainer{
+    width: 100%;
+    min-width: 50px;
+    align-content: center;
+    padding: 25px 0;
+    margin: 0 0 0 5px;
+}
+.MainDisplay{
+    width: 100%;
+    min-width: 360px;
+    margin-top: 30px;
+}
+
+.DetailContainer{
+    width: 100%;
+    margin: 0 auto;
+    min-width: 360px;
+    letter-spacing: 1.5px;
+}
+
+.ProductName{
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 1em; 
+    font-weight: 80;
+    font-style: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.PriceTag{
+    text-align: left;
+    margin-left : 40px ;
+    font-size: 2em;  
+    font-weight: 50;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.OriginalPrice{
+    margin-left: 30px;
+}
+.ProductColor{
+    margin-left: 40px;
+    margin-top: 20px;
+    font: 2em sans-serif;
+}
+
+.ColorContainer{
+    max-width: 360px;
+    margin: 0 50px;
+}
+.Box{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 10px 0 0 0;
+    border: 2px solid rgb(9, 112, 119);
+}
+
+.Box:hover{
+    transform: scale(1.1);
+}
+
+.White{
+    background-color: white;
+}
+.blue{
+    background-color: rgb(240, 220, 223);
+}
+.orange{
+    background-color: wheat;
+}
+.red{
+    background-color: rgb(192, 55, 31);
+}
+.black{
+    background-color:black ;
+}
+
