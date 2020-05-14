@@ -1,0 +1,18 @@
+.CartBox{
+    width: 60%;
+    min-width: 360px;
+    height: 150px;
+    background-color: white;
+    margin: 5px auto;
+    
+}
+
+.ElementName{
+    
+    font-size: .8em;
+    letter-spacing: 2px;
+}
+.ElementPrice{
+    font-size: 1em;
+    letter-spacing: 2px;
+}

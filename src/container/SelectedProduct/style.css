@@ -92,3 +92,7 @@
     background-color:black ;
 }
 
+.AddCart{
+    min-width: 240px;
+    margin: 10px 38px;
+}

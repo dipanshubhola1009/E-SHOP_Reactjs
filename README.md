@@ -1,21 +1,4 @@
-# E-SHOP_Reactjs
-Online Product display web application build using Reactjs  (Front-end) and Php , mysql (Backend).
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-To Do :-
-<ul>
-  <li>change path of action.php and signup.php in form content (<b> for database connectivity </b>)</li>
-  <li> Create Database with name -> signupdb </li>
-  
-
-
-
-
-
-
-
-
 
 ## Available Scripts
 
@@ -83,4 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-

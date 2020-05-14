@@ -4,8 +4,12 @@
     max-width:330px ;
     box-shadow: 5px 5px 5px gray;
     padding: 20px 20px 5px 20px;
-    margin: 10px;
+    margin: 10px auto;
     background-color: rgb(191, 189, 192);
+    display: block;
+}
+.floatL{
+    float: left;
 }
 h1{ 
     width: 100%;

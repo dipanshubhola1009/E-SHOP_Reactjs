@@ -101,6 +101,15 @@ const SelectedProduct = (props) => {
                         </div>     
                         </div>
                     </div>
+                 
+                  <div className="row">
+                      <div className="col">
+                          <button className="AddCart btn btn-success" >
+                              ADD TO CART
+                          </button>
+                      </div>
+                  </div>
+
                   </div>
                 </div>
  
